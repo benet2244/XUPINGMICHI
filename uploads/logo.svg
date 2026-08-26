@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" width="240" height="50">
+  <defs>
+    <linearGradient id="goldGradLogo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b27357" />
+      <stop offset="100%" stop-color="#4b626e" />
+    </linearGradient>
+  </defs>
+  <!-- Diamond Shape -->
+  <path d="M 28 10 L 43 22 L 28 40 L 13 22 Z" fill="url(#goldGradLogo)" />
+  <path d="M 28 10 L 28 40 M 13 22 L 43 22 M 28 10 L 21 22 L 28 40 L 35 22 Z" stroke="#ffffff" stroke-width="1" fill="none" opacity="0.6"/>
+  
+  <!-- Text -->
+  <text x="58" y="32" font-family="'Playfair Display', 'Didot', 'Georgia', serif" font-size="20" font-weight="700" fill="#2d3748" letter-spacing="0.03em">MichiXUPING</text>
+</svg>
